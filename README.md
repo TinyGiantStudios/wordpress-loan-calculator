@@ -1,4 +1,4 @@
-wplc
+WordPress - Loan Calculator
 ====
 
-Lite version of plugin
+A loan calculator for WordPress that works through a Shortcode.
